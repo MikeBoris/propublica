@@ -1,5 +1,5 @@
 """
-URL Parameters
+Wrapper for Propublica API
 
 Parameter	Description
 congress	105-115
